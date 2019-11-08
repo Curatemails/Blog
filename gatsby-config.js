@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Curatemails`,
     name: `Curatemails`,
-    siteUrl: `https://curatemails.com`,
+    siteUrl: `https://blog.curatemails.com`,
     description: `Marketing with Email Signatures`,
     hero: {
       heading: `Curatemails.`,
