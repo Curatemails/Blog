@@ -6,8 +6,8 @@ import logo from './logo.png';
 export default function Logo() {
     return (
         <img
-            width="180"
-            height="30"
+            width="200"
+            height="27"
             fill={'primary'}
             src={logo}
             alt="curatemails"
